@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+@media only screen and (max-width: 900px) {
+	body {
+		margin: 1rem 3rem;
+	}
+}
+
+@media only screen and (min-width: 900px) {
+  body {
+    margin: 2rem 10rem;
+    max-width: 45rem;
+  }
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background: #efeedc;
+}
